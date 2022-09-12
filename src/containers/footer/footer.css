@@ -58,9 +58,9 @@
     margin: 1rem;
 }
 
-.gpt3__footer-links_logo {
-    display: flex;
-    flex-direction: column;
+.gpt3__footer-links img {
+    height: 100px;
+    width: 100px;
 }
 
 .gpt3__footer-links_logo img {

@@ -1,11 +1,11 @@
 import React from 'react';
 import './possibility.css';
-import stock from '../../assets/stock.png';
+// import stock from '../../assets/stock.png';
 
 const Possibility = () => (
   <div className="gpt3__possibility section__padding" id="possibility">
     <div className="gpt3__possibility-image">
-      <img src={stock} />
+      {/* <img src={stock} /> */}
 
     </div>
     <div className="gpt3__possibility-content">
